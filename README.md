@@ -11,7 +11,7 @@ This repository contains the final internship submission package prepared for II
 | Program | B.Tech. Computer Science and Engineering |
 | Semester | VII |
 | Batch | 2023–2027 |
-| Section | 07 CSE1 |
+| Section | CSE1 |
 | Host Organization | Machine Intelligence, Signals and Networks (MISN) Lab, IIT Delhi |
 | Supervisor | Dr. Sandeep Kumar |
 | Internship Period | 20 May 2026 to 20 August 2026 |
